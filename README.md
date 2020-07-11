@@ -19,13 +19,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Complete the programs in the `src/` directory in any order.
 
-* `oop/`
-    * `oop1.py`: class hierarchies
-    * `oop2.py`: subclassing and method overriding
-* `comp/`
-    * `comp.py`: list comprehensions
-* `cityreader/`
-    * `cityreader.py`: modules and CSV file reading
+* [x] `oop/`
+    * [x] `oop1.py`: class hierarchies
+    * [x] `oop2.py`: subclassing and method overriding
+* [x] `comp/`
+    * [x] `comp.py`: list comprehensions
+* [x] `cityreader/`
+    * [x] `cityreader.py`: modules and CSV file reading
 
 ## Testing
 
@@ -43,7 +43,7 @@ In your solution, it is essential that you follow best practices and produce cle
 
 ## Stretch Problems
 
-The `cityreader` directory poses an stretch problem that builds upon the functionality you are to implement as part of the non-stretch requirements in the `cityreader` directory. 
+The `cityreader` directory poses a stretch problem that builds upon the functionality you are to implement as part of the non-stretch requirements in the `cityreader` directory. 
 
 There's a separate test file `test_stretch.py` for the stretch problem that you can run in order to test your implementation of the stretch problem.
 
